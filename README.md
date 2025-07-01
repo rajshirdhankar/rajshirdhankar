@@ -1,67 +1,40 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=400&lines=Hello;नमस्कार;नमस्ते" alt="Typing SVG" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rajshirdhankar" />
+
+<h1 align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello;नमस्कार;नमस्ते;I'm+Raj+Shirdhankar" alt="Typing SVG" />
 </p>
 
+</h1>
 
 
+<h3 align="center">Computer Engineering Student | Intern @ DBA Consultants Pvt. Ltd.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajshirdhankar&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+<br/>
 
----
+<div align="center">
+  
+🚀 Passionate about Tech.
+ 
+ 🔭 Currently working on **Web + App Development Projects**.
 
-### 👨‍💻 About Me
+📚 I love solving problems and learning new technologies.
 
-- 🚀 Full Stack Developer (React • Node.js • MongoDB)
-- 💼 Intern @ **DBA Consultants Pvt. Ltd.**
-- 🌱 Learning: Cybersecurity, AI/ML, System Design
-- 📍 Based in Mumbai, India
-- 🤝 Open to Collaboration
+ </div>
+ 
+<div align="center"> 
+<p align="center"> <a href="mailto:shirdhankarraj51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/rajshirdhankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://raj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://x.com/rajsshirdhankar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/rajsshirdhankar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> </p>
+  
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ TECH STACK ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,git,github,gmail,html,instagram,java,js,linkedin,mongodb,npm,postman,powershell,py,react,vercel,vite,vscode,windows"/>
+    <br>
+</div>
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,javascript,html,css,tailwind,git,github,firebase,vscode" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-- 📚 [**My Reading Goals App**](https://github.com/rajshirdhankar/my-reading-goals)  
-  Set and track reading goals with a smooth React interface.  
-  `React • Vite • Shadcn UI • TailwindCSS`
-
-- 💸 [**Personal Finance Tracker**](https://github.com/rajshirdhankar/personal-finance-tracker)  
-  Track your income & expenses in a clean full-stack app.  
-  `React • Node.js • Express • MongoDB`
-
-- 📱 [**Learning App (React Native)**](https://github.com/rajshirdhankar/my-learning-b1)  
-  Mobile app for managing your learning tasks.  
-  `React Native • Expo • AsyncStorage`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajshirdhankar&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=rajshirdhankar&theme=radical" height="160"/>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:shirdhankarraj51@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rajshirdhankar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://raj-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">✨ Thank you for visiting! Let’s connect and build something awesome together. 🚀</p>
+<br/>
+<hr/>
