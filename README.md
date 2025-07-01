@@ -29,7 +29,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ TECH STACK ⚒️</h2>
+<h2 align="center">MY TECH STACK</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,git,github,gmail,html,instagram,java,js,linkedin,mongodb,npm,postman,powershell,py,react,vercel,vite,vscode,windows"/>
