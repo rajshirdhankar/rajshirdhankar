@@ -14,16 +14,16 @@
 
 <div align="center">
   
-🚀 Passionate about Tech.
+• Passionate about Tech.
  
- 🔭 Currently working on **Web + App Development Projects**.
+• Currently working on **Web + App Development Projects**.
 
-📚 I love solving problems and learning new technologies.
+• I love solving problems and learning new technologies.
 
  </div>
  
 <div align="center"> 
-<p align="center"> <a href="mailto:shirdhankarraj51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/rajshirdhankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://raj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://x.com/rajsshirdhankar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/rajsshirdhankar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> </p>
+<p align="center"> <a href="mailto:shirdhankarraj51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/rajshirdhankar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://vercel.com/raj-shirdhankars-projects"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://x.com/rajsshirdhankar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/rajsshirdhankar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> </p>
   
 </div>
 
