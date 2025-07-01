@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello!+Namaste!+🙏;I'm+Raj+Shirdhankar;Full+Stack+Developer+%7C+React+%7C+Node+%7C+MongoDB" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello!+Namaste!+🙏;I'm+Raj+Shirdhankar;Full+Stack+Developer+%7C+React+%7C+Node+%7C+MongoDB" alt="Raj Shirdhankar Typing Intro" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajshirdhankar&label=Profile+Views&color=blueviolet&style=flat" />
